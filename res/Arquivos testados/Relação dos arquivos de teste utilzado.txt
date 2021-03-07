@@ -1,0 +1,12 @@
+Erro coluna : foi acrescentado mais uma coluna ao final do arquivo.
+Erro coluna 02: uma coluna foi retirada e colocada em outro lugar do arquivo.
+Erro linha: foi acrescentado mais uma linha ao final do arquivo. 
+Erro linha 02: foi acrescentado mais duas linhas.
+Erro ponto : foi acrescentado mais um ponto em meio aos valores.
+Erro ponto 02: dois pontos foram acrescentados no meio do valor.
+Erro letra : foi acrescentado uma letra em meio ao arquvio.
+Erro letra 02 : um valor foi substituido por uma letra.
+Erro string : uma palavra foi acrescentada ao meio do arquvio.
+Erro politco e empresa: foi colocado um valor maior que 50.
+
+Correto : arquivo com o layout correto.
