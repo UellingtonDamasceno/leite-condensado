@@ -79,4 +79,6 @@ Diante dessa informação o sitema deverá:
 4.  Os códigos na pasta de [versões anteriores](https://github.com/UellingtonDamasceno/leite-condensado/tree/main/Vers%C3%B5es%20anteriores) possuem uma descrição que lista as diferenças entre a versão atual e a anterior.
 
 ----------
-:arrow_left: [Problema anterior](https://github.com/UellingtonDamasceno/professor-curioso)
+
+| :arrow_left: [Problema anterior](https://github.com/UellingtonDamasceno/professor-curioso) |.....................................................| [Próximo problema]() :arrow_right: | 
+| :----: |-----| :-----:|   
