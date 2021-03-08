@@ -106,12 +106,13 @@ A imagem abaixo corresponde ao padrão do arquivo de saída esperado para a entr
 - Inserir bibliotecas necessárias para o bom funcionamento do _software_ em sistemas operacionais baseado em Linux.
 
 ## Curiosidades
-1. O nome do repositório é uma referência e tem como objetivo ser diferente e chamativo. **Por favor, julge o código e não e não minha habilidade em fazer referências. Taokey?**.
+1. O nome do repositório é uma referência e tem como objetivo ser diferente e chamativo. **Por favor, julge o código e não minha habilidade em fazer referências. Taokey?**.
 2. Há um cálculo que está errado mas pode dá o resultado correto em uma determinada situação. (Gostaria de saber qual é? Descobriu? Manda um oi e vamos conversar sobre).
 3. Ao olhar as versões anteriores verá que durante muito tempo digitei "propina" errado.
 4. Há uma coisa que descobrir para validar o arquivo de entrada que me deixou muito orgulhoso. Caso tenha curiosidade dê uma olhada na sessão `2.3.4` do relatório.
 5. Os códigos na pasta de [versões anteriores](https://github.com/UellingtonDamasceno/leite-condensado/tree/main/Vers%C3%B5es%20anteriores) possuem uma descrição que lista as diferenças entre a versão atual e a anterior.
-6. Aceito sugestões de como fazer os _links_ "Problema anterior" e "Proximo problema" ficarem separados de forma responsiva.  
+6. Antes de escolher esse nome para o repositório fiquei na dúvida entre `trabalhei-na-PF` e `onde-foi-meu-money`.
+7.  Aceito sugestões de como fazer os _links_ "Problema anterior" e "Proximo problema" ficarem separados de forma responsiva.  
 
 ----------
 
