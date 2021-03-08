@@ -115,5 +115,5 @@ A imagem abaixo corresponde ao padrão do arquivo de saída esperado para a entr
 
 ----------
 
-| :arrow_left: [Problema anterior](https://github.com/UellingtonDamasceno/professor-curioso) |..................................................................................................| [Próximo problema]() :arrow_right: | 
+| :arrow_left: [Problema anterior](https://github.com/UellingtonDamasceno/professor-curioso) |............................... :arrow_up: [Voltar ao topo](#leite-condensado) :arrow_up: ...............................| [Próximo problema]() :arrow_right: | 
 | :----: |-----| :-----:|   
