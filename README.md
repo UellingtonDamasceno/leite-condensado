@@ -80,5 +80,5 @@ Diante dessa informação o sitema deverá:
 
 ----------
 
-| :arrow_left: [Problema anterior](https://github.com/UellingtonDamasceno/professor-curioso) |.....................................................| [Próximo problema]() :arrow_right: | 
+| :arrow_left: [Problema anterior](https://github.com/UellingtonDamasceno/professor-curioso) |..................................................................................................| [Próximo problema]() :arrow_right: | 
 | :----: |-----| :-----:|   
