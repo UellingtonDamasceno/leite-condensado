@@ -5,6 +5,9 @@
 - [Requisitos básicos](#requisitos-básicos)
 - [Produto](#produto)
 - [Objetivo de aprendizagem](#objetivo-de-aprendizagem)
+- [Algoritmo](#algoritmo)
+  - [Entrada](#entrada)
+  - [Saída](#saída)
 - [Melhorias](#melhorias)
 - [Curiosidades](#curiosidades)
 
@@ -62,10 +65,40 @@ Diante dessa informação o sitema deverá:
 - Leitura e escrita de arquivos em C.
 - Operações aritiméticas com matrizes e vetores.
 - Modularização, Funções e procedimentos.
+- Cálculo de juro composto.
 
 ## Algoritmo
-### Entradas
+Caso tenha interesse em mais detalhes recomendo fortemente que olhe o 
+[relatório](https://github.com/UellingtonDamasceno/leite-condensado/blob/main/res/relatorio.pdf) 
+nele você poderá encontrar todos os detalhes de implementação da leitura, validação e geração dos 
+arquivos.
+
+### Entrada
+O arquivo de entrada deve seguir o seguinte padrão: 
+| Nº da linha | Descrição | Tipo |
+| :---------: | ---------- | :--: |
+| 01 | Valor correspondente a taxa de juros | `float` |
+| 02 | Número de políticos que receberam propina | `int` |
+| 03 | Número de empresas | `int` |
+
+A partir da terceira linha, deve existir uma matriz com valores que correspondem ao valor da propina paga pelas empreas. Essa matriz deve seguir os segintes requisitos: 
+
+ Nº da coluna | Descrição | Tipo |
+| :---------: | --------- | :--: |
+| 01 | Identificação do político | `int` |
+| n | Valores das propinas pagas | `float` |
+
+Em seguida deve existir outra matriz que indica quantas parcelas cada propina foi 
+paga, cada linha dessa matriz corresponde a uma linha da matriz anterior.
+
+Segue abaixo uma imagem com o padrão do arquivo de entrada.
+
+![Padrão do arquivo de entrada](https://github.com/UellingtonDamasceno/leite-condensado/blob/main/res/imagens/arquivo-entrada.png "Padrão do arquivo de entrada")
 ### Saída
+
+A imagem abaixo corresponde ao padrão do arquivo de saída esperado para a entrada apresentada anteriormente.
+![Padrão do arquivo de saída](https://github.com/UellingtonDamasceno/leite-condensado/blob/main/res/imagens/arquivo-saida.png "Padrão do arquivo de saída")
+> Imagem retirada do [descritivo](https://github.com/UellingtonDamasceno/leite-condensado/blob/main/res/P2%20EXA%20854%202017-1%20v3.pdf) do problema.
 
 ## Melhorias
 - Particionar as matrizes e multplicar blocos menores por vez a fim de reduzir a quantidade de acesso a memória RAM e consequentemente aumentar a velocidade das operações. [mais detalhes](https://github.com/UellingtonDamasceno/DGEMM-memory-analysis)
@@ -76,7 +109,9 @@ Diante dessa informação o sitema deverá:
 1. O nome do repositório é uma referência e tem como objetivo ser diferente e chamativo. **Por favor, julge o código e não e não minha habilidade em fazer referências. Taokey?**.
 2. Há um cálculo que está errado mas pode dá o resultado correto em uma determinada situação. (Gostaria de saber qual é? Descobriu? Manda um oi e vamos conversar sobre).
 3. Ao olhar as versões anteriores verá que durante muito tempo digitei "propina" errado.
-4.  Os códigos na pasta de [versões anteriores](https://github.com/UellingtonDamasceno/leite-condensado/tree/main/Vers%C3%B5es%20anteriores) possuem uma descrição que lista as diferenças entre a versão atual e a anterior.
+4. Há uma coisa que descobrir para validar o arquivo de entrada que me deixou muito orgulhoso. Caso tenha curiosidade dê uma olhada na sessão `2.3.4` do relatório.
+5. Os códigos na pasta de [versões anteriores](https://github.com/UellingtonDamasceno/leite-condensado/tree/main/Vers%C3%B5es%20anteriores) possuem uma descrição que lista as diferenças entre a versão atual e a anterior.
+6. Aceito sugestões de como fazer os _links_ "Problema anterior" e "Proximo problema" ficarem separados de forma responsiva.  
 
 ----------
 
