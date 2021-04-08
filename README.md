@@ -1,6 +1,5 @@
 # leite-condensado
 
-## Problema
 "Atualmente, o Brasil passa por um momento nunva visto na história do país, no 
 qual esquemas de corrupção vêm sendo escancarados para toda a sociedade 
 brasileira. Bom saber que corruptos estão sendo presos por seus atos ilícitos. no  
