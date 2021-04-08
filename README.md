@@ -1,16 +1,5 @@
 # leite-condensado
 
-## Sumário
-- [Problema](#problema)
-- [Requisitos básicos](#requisitos-básicos)
-- [Produto](#produto)
-- [Objetivo de aprendizagem](#objetivo-de-aprendizagem)
-- [Algoritmo](#algoritmo)
-  - [Entrada](#entrada)
-  - [Saída](#saída)
-- [Melhorias](#melhorias)
-- [Curiosidades](#curiosidades)
-
 ## Problema
 "Atualmente, o Brasil passa por um momento nunva visto na história do país, no 
 qual esquemas de corrupção vêm sendo escancarados para toda a sociedade 
